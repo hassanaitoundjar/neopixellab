@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://neopixellab.com/sitemap.xml
+Sitemap: https://neopixellab.vercel.app/sitemap.xml
 
 # Crawl delay for respectful crawling
 Crawl-delay: 1
